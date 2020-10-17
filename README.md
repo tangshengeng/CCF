@@ -6,4 +6,4 @@
 
 ### P.S.
 * H-index data comes from [Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en)
-* Updated by Shengeng Tang, **Laboratory, Media Computing, Hefei University of Technology**
+* Updated by Shengeng Tang, **Lab of Media Computing, Hefei University of Technology**
